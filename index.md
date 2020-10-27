@@ -3,7 +3,7 @@
 
 This is a collection of various topics and concepts in Azure SQL represented visually using sketchnotes to enhance and augment your learning experience. These are curated for you to learn, share and skill-up on Azure SQL. You might also want to pick your favourites to pin them up at your desk as reference guides / pin-up posters.
 
-[aka.ms/azuresql-sketchnotes](https://aka.ms/azuresql-sketchnotes)
+[Azure SQL sketchnotes](https://github.com/mokabiru/azuresql-sketchnotes)
 
 If you like what you see, tag us on Twitter or Linkedin with ***#azuresql***
 
